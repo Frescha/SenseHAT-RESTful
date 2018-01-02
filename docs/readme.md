@@ -1,14 +1,10 @@
-# Microservice Sense HAT API Calls
+# SenseHAT-RESTful API Reference
 
 ## Open Endpoints
 
 Open endpoints require no Authentication.
 
 * [API Version](api_version.md) : `GET /api/v1/`
-
-## LED Matrix
-
-### ---
 
 ## Environmental sensors 
 
@@ -18,3 +14,9 @@ Open endpoints require no Authentication.
 * [Pressure](environmental_sensors/pressure.md) : `GET /api/v1/pressure`
 
 ## IMU Sensor
+
+ToDo
+
+## LED Matrix
+
+ToDo
