@@ -9,6 +9,7 @@ from sense_hat import SenseHat
 
 import datetime
 import os
+import sys
 
 now = datetime.datetime.now()
 timeString = now.strftime("%Y-%m-%d %H:%M")

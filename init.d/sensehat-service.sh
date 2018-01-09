@@ -12,7 +12,7 @@
 
 # Change the next 3 lines to suit where you install your script and what you want to call it
 DIR=/usr/local/bin/
-DAEMON=$DIR/sensehat-service.py
+DAEMON=$DIR/sensehat-api.py
 DAEMON_NAME=sensehat-service    
 
 # Add any command line options for your daemon here
